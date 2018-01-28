@@ -68,7 +68,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: nielsenramon/chalk 
 
 # Set the Sass partials directory, as we're using @imports
 sass:
