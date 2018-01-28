@@ -14,8 +14,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 # Flags below are optional
 #
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
-remote_theme: mmistakes/minimal-mistakes@4.9.0
 
 # Includes an icon in the footer for each username you enter
 footer-links:
